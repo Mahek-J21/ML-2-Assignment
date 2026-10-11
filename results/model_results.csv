@@ -1,0 +1,6 @@
+Algorithm,Metric,Value
+AdaBoost Regression,MAE,4677.3825
+AdaBoost Regression,RMSE,5549.0273
+AdaBoost Regression,R2 Score,0.8017
+Logistic Regression,Accuracy,0.8375
+K-Means,Silhouette Score,0.5547
